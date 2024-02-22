@@ -1,0 +1,21 @@
+{
+    "credentials": {
+        "vision": {
+            "subskey": "58d8ad69f07c4e31916bc854ed2f63bf",
+            "subskey2": "9d58072a020b4ff6aa01c24f2570a300",
+            "endpoint": "https://cv-nlp-eus2.cognitiveservices.azure.com/",
+            "region": "eastus2"
+        },
+        "speech": {
+            "subskey": "b0e1cbc8968d41d7afb7bb02492deb88",
+            "endpoint": "https://ts-nlp-eus2.cognitiveservices.azure.com/sts/v1.0/issuetoken",
+            "region": "eastus2"
+        },
+        "doc_intel_rg": {
+            "endpoint": "https://doc-intel-recognizer.cognitiveservices.azure.com/",
+            "subskey1": "24b5c49f929f45a08a8de2729da65324",
+            "subskey2": "5ea0101654834c288c7c72a371f7db32",
+            "region": "eastus"
+        }
+    }
+}
